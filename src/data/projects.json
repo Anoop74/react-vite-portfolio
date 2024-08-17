@@ -1,0 +1,23 @@
+[
+  {
+    "title": "MAATR",
+    "imageSrc": "projects/project.png",
+   
+    "skills": ["React", "Aws", "Node"],
+    "source": "https://www.capgemini.com/in-en/news/inside-stories/maatr-app/"
+  },
+  {
+    "title": "GenAI",
+    "imageSrc": "projects/project.png",
+    
+    "skills": ["React","CSS","Node"],
+    "source": "https://www.capgemini.com/in-en/services/data-and-ai/generative-ai/"
+  },
+  {
+    "title": "Clickbait Detection Using Long short-term memory",
+    "imageSrc": "projects/project.png",
+    
+    "skills": ["Python", "Colab", "Deep Learning"],
+    "source": "https://ieeexplore.ieee.org/document/9941251"
+  }
+]

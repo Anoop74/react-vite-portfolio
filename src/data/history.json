@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Capgemini",
+    "startDate": "Oct, 2022",
+    "endDate": "Present",
+    "experiences": ["React UI Development","Code Quality and Collaboration","AI Tools and Libraries"],
+    "imageSrc": "history/cg.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Capgemini",
+    "startDate": "Feb, 2022",
+    "endDate": "May, 2022",
+    "experiences": ["JEE Full-stack development",
+    "Worked with React for frontend development","Utilized Spring Boot for backend development", "Managed PostgreSQL for database operations"
+],
+    "imageSrc": "history/cg.png"
+  }
+]
